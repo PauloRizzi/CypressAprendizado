@@ -1,0 +1,6 @@
+# ===================================================================
+# Dependências do Node.js
+# ===================================================================
+# Esta é a pasta mais importante a ser ignorada. Ela é gigante e
+# qualquer pessoa pode recriá-la usando 'npm install'.
+node_modules/
